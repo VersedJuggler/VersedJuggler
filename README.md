@@ -1,4 +1,4 @@
-Fullstack Dev (React / Python)  
+Fullstack Dev (HTML / CSS / JS / React / Python)  
 Web • Bots • Automation
 
 <!--
